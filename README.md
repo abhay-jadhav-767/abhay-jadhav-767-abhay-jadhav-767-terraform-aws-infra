@@ -1,6 +1,6 @@
 # terraform-aws-infra
 
-Terraform project to provision a complete AWS environment using reusable modules. Targets the Mumbai (ap-south-1) region. One command creates everything — VPC, subnets, EC2, Docker, IAM, security groups. Remote state is stored in S3.
+Terraform project to provision a complete AWS environment using reusable modules. Targets the Mumbai (ap-south-1) region. One command creates everything - VPC, subnets, EC2, Docker, IAM, security groups. Remote state is stored in S3.
 
 ---
 
